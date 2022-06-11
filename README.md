@@ -4,7 +4,7 @@ Información integrantes activos:
 
 Lu-Deng = Emanuel Manrique
 
-maxluna12 = Luna Rogelio
+maxluna12 = Luna Rogelio Maximiliano
 
 palillo12 = lucas gonzalez
 
