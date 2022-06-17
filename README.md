@@ -1,8 +1,9 @@
-Somos el grupo 2 del aula 8. Ciencias de datos
+![banner](https://drive.google.com/file/d/1R-hpjR_RI8h8cK6rPnLC9uqDRu-Ydwbw/view?usp=sharing)
 
-Información integrantes activos:
 
-Lu-Deng = Emanuel Manrique
+##Colaboradores
+
+Lu-Deng = Emanuel Manrique 
 
 maxluna12 = Luna Rogelio Maximiliano
 
