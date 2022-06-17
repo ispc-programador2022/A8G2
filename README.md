@@ -1,4 +1,4 @@
-![banner](https://drive.google.com/file/d/1R-hpjR_RI8h8cK6rPnLC9uqDRu-Ydwbw/view?usp=sharing)
+![banner](https://drive.google.com/uc?export=view&id=1R-hpjR_RI8h8cK6rPnLC9uqDRu-Ydwbw)
 
 
 ##Colaboradores
