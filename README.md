@@ -8,7 +8,7 @@
 - Rogelio Maximiliano Luna :green_circle:
 - Antonio José Clodomiro Lizarraga
 - Maria Gabriela Lopez
-- Juan Manuel Mauro
+- Juan Manuel Mauro :green_circle:
 - Florencia Mansilla
 - Gabriela López
 - Emanuel Manrique :green_circle:
