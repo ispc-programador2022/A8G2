@@ -1,0 +1,5 @@
+# Función modulo
+""" El operador % realiza la operación modulo. Calcula el resto de la división entera entre ambos numeros"""
+
+print(10 % 3) # 1
+
